@@ -18,3 +18,11 @@
 - Create phone details route:
   - Map `/phones/<phone-id>` route to `PhoneDetailCtrl` and `partials/phones-detail.html`.
   - Create empty placeholder `PhoneDetailsCtrl` controller.
+
+### feature - 2
+
+
+- Implement `PhoneDetailCtrl` controller to fetch the details for a specific phone from a JSON file
+  using `$http` service.
+- Update the template for the phone detailed view.
+- Add CSS to make the phone details page look "pretty".
