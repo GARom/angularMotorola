@@ -1,4 +1,5 @@
 # angularMotorola
+
 ### feature-1
 
 - Introduce the [$route] service which allows binding URLs for deep-linking with
